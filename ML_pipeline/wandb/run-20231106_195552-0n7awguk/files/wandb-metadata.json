@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2023-11-06T18:55:55.447060",
+    "startedAt": "2023-11-06T18:55:52.120160",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/emclaniyi/udacity_repo.git",
+        "commit": "9e24219b5930ad8b8d9030a74e0b6c3f6629119d"
+    },
+    "email": "emerald@routewatche.com",
+    "root": "C:/Users/EM/Desktop/udacity_repo",
+    "host": "EMERALD",
+    "username": "EM",
+    "executable": "c:\\Users\\EM\\anaconda3\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 932.9013633728027,
+            "used": 835.789623260498
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 2070 with Max-Q Design",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2070 with Max-Q Design",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 31.76727294921875
+    }
+}
